@@ -1,0 +1,12 @@
+# NetBeans specific
+# nbproject/private/
+# build/
+#welcome.wav/
+#nbbuild/
+#dist/
+#nbdist/
+#.nb-gradle/
+
+# Project specific
+displayResult.txt
+studentsData.txt
