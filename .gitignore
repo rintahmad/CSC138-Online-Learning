@@ -6,6 +6,7 @@
 #dist/
 #nbdist/
 #.nb-gradle/
+file.exe/
 
 # Project specific
 displayResult.txt
