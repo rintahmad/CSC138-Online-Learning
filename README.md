@@ -1,5 +1,5 @@
 # CSC238-Online-Learning
-- C++ project build with C++ for CSC138 course
+- C++ project build for CSC138 course
 
 # About
 - Developed for CSC138 - STRUCTED PROGRAMMING 
